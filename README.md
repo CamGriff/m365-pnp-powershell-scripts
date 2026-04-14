@@ -12,7 +12,7 @@ Full documentation, usage guides and examples for each script at
 - [Create-Site-Columns.ps1](./site-columns/Create-Site-Columns.ps1) — Bulk create SharePoint site columns from JSON configuration | [Full docs](https://www.camerongriffiths.com/scripts/createsitecolumns)
 
 ### Navigation
-- [Site-Navigation.ps1](./navigation/Site-Navigation.ps1) — Manage and update SharePoint Online site navigation programmatically | [Full docs](https://www.camerongriffiths.com/scripts/sitenavigation)
+- [Site-Navigation.ps1](./navigation/Site-Navigation.ps1) — Manage and update SharePoint Online site navigation programmatically | [Full docs](https://www.camerongriffiths.com/scripts/createnavigation)
 
 ### Lists & Libraries
 - [Excel-URL-Column-Updates.ps1](./lists-libraries/Excel-URL-Column-Updates.ps1) — Bulk update URL column values in SharePoint lists from Excel | [Full docs](https://www.camerongriffiths.com/scripts/updateURLsInAnExcelColumn)
