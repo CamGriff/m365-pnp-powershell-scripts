@@ -1,3 +1,12 @@
+# Script: Update-Content-Type-NAme.ps1
+# Description: Creates SharePoint Online content types from JSON configuration file
+# Full documentation: https://www.camerongriffiths.com/scripts/updatecontenttypename
+# Author: Cameron Griffiths | camerongriffiths.com
+# Requirements: PnP.PowerShell, Site Collection Administrator permissions
+
+
+
+
 # SharePoint Online Content Type Rename Script
             # This script renames a content type at site collection level and all associated list-level copies
             
