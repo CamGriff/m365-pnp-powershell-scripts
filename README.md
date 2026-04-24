@@ -23,7 +23,8 @@ Full documentation, usage guides and examples for each script at
 ### Pages
 - [Export-Multiple-Pages.ps1](./pages/Export-Multiple-Pages.ps1) — Export multiple SharePoint modern pages using PnP provisioning templates | [Full docs](https://www.camerongriffiths.com/scripts/exportmultiplepages)
 - [Import-Multiple-Pages.ps1](./pages/Import-Multiple-Pages.ps1) — Import multiple SharePoint modern pages from PnP provisioning templates | [Full docs](https://www.camerongriffiths.com/scripts/importmultiplepages)
-- [Move-SharePoint-Pages.ps1](./pages/Move-SharePoint-Pages.ps1) — Move SharePoint pages between folders or libraries with metadata preservation | [Full docs](https://www.camerongriffiths.com/scripts/movesharepointpages)
+- [move-all-pages-in-a-folder.ps1](./pages/move-all-pages-in-a-folder.ps1) — Move SharePoint pages between folders or libraries with metadata preservation | [Full docs](https://www.camerongriffiths.com/scripts/movesharepointpages)
+- - [move-selected-pages-in-a-folder.ps1](./pages/move-selected-pages-in-a-folder.ps1) — Move SharePoint pages between folders  | [Full docs](https://www.camerongriffiths.com/scripts/movesharepointpages)
 - [Create-Translations-Of-Pages-In-Folder.ps1](./pages/Create-Translations-Of-Pages-In-Folder.ps1) — Bulk create multilingual translation pages for all pages within a folder | [Full docs](https://www.camerongriffiths.com/scripts/createtranslationsofpagesinfolder)
 - [Update-Pages-Approval-Status-In-Folder.ps1](./pages/Update-Pages-Approval-Status-In-Folder.ps1) — Bulk update the approval status of pages within a specified folder | [Full docs](https://www.camerongriffiths.com/scripts/updatepagesapprovalstatusinfolder)
 - [Set-404-Error-Page.ps1](./pages/Set-404-Error-Page.ps1) — Configure a custom 404 error page for a SharePoint site | [Full docs](https://www.camerongriffiths.com/scripts/set404errorpage)
