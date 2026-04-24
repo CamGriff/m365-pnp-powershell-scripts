@@ -16,7 +16,7 @@ Full documentation, usage guides and examples for each script at
 - [Update-Content-Type-Name.ps1](./content-types/Update-Content-Type-Name.ps1) — Rename an existing SharePoint content type across a site collection | [Full docs](https://www.camerongriffiths.com/scripts/updatecontenttypename)
 - [Update-Pages-Content-Type-In-Folder.ps1](./content-types/Update-Pages-Content-Type-In-Folder.ps1) — Bulk update the content type of pages within a specified folder | [Full docs](https://www.camerongriffiths.com/scripts/updatepagescontenttypeinafolder)
 ### Navigation
-- [Create-Navigation.ps1](./site-navigation/Create-Navigation.ps1) — Create SharePoint site navigation nodes programmatically | [Full docs](https://www.camerongriffiths.com/scripts/createnavigation)
+- [Create-Navigation.ps1](./site-navigation/create-site-navigation.ps1) — Create SharePoint site navigation nodes programmatically | [Full docs](https://www.camerongriffiths.com/scripts/createnavigation)
 - [Add-Navigation-Translations.ps1](./site-navigation/Add-Navigation-Translations.ps1) — Add multilingual translations to SharePoint navigation nodes | [Full docs](https://www.camerongriffiths.com/scripts/addnavigationtranslations)
 - [Export-Megamenu-Navigation.ps1](./site-navigation/Export-Megamenu-Navigation.ps1) — Export SharePoint megamenu navigation structure to JSON | [Full docs](https://www.camerongriffiths.com/scripts/exportMegamenuNavigation)
 - [Site-Navigation.ps1](./site-navigation/Site-Navigation.ps1) — Manage and update SharePoint Online site navigation programmatically | [Full docs](https://www.camerongriffiths.com/scripts/sitenavigation)
