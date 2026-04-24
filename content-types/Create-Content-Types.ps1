@@ -1,3 +1,9 @@
+# Script: Create-Content-Types.ps1
+# Description: Creates SharePoint Online content types from JSON configuration file
+# Full documentation: https://www.camerongriffiths.com/scripts/createcontenttypes
+# Author: Cameron Griffiths | camerongriffiths.com
+# Requirements: PnP.PowerShell, Site Collection Administrator permissions
+
 # SharePoint Online Content Types Creation Script
 $SiteURL = "https://tenantName.sharepoint.com/sites/siteName"
 $JSONFile = "createContentTypes.json"
