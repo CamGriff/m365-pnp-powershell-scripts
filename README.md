@@ -35,6 +35,8 @@ Full documentation, usage guides and examples for each script at
 - [Update-Folder-Approval-Statuses.ps1](./lists-libraries/Update-Folder-Approval-Statuses.ps1) — Bulk update approval statuses across multiple folders in a library | [Full docs](https://www.camerongriffiths.com/scripts/updatefolderapprovalstatuses)
 - [Update-URLs-In-An-Excel-Column.ps1](./lists-libraries/Update-URLs-In-An-Excel-Column.ps1) — Bulk update URL column values in SharePoint lists using data from Excel | [Full docs](https://www.camerongriffiths.com/scripts/updateurlsinanexcelcolumn)
 - [Find-Column-Usage.ps1](./lists-libraries/Find-Column-Usage.ps1) — Identify where a specific site column is used across lists and libraries | [Full docs](https://www.camerongriffiths.com/scripts/findColumnUsage)
+- ### Message Banner
+- [Create-MessageBanner-List.ps1](https://github.com/CamGriff/m365-pnp-powershell-scripts/blob/main/lists-libraries/createMessageBanner.ps1) — Creates the MessageBanner SharePoint list with all columns, choice fields and default values for a PnP Modern Search driven homepage banner | [Full docs](https://www.camerongriffiths.com/scripts/createmessagebanner)
 ### Groups & Permissions
 - [Add-Group-Members.ps1](./groups-permissions/Add-Group-Members.ps1) — Add members to a SharePoint group from a CSV file | [Full docs](https://www.camerongriffiths.com/scripts/addgroupmembers)
 - [Create-Group-And-Add-Group-Members.ps1](./groups-permissions/Create-Group-And-Add-Group-Members.ps1) — Create a SharePoint group and populate it with members in one operation | [Full docs](https://www.camerongriffiths.com/scripts/creategroup&addgroupmembers)
