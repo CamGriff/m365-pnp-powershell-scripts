@@ -1,0 +1,9 @@
+$ClientId = ""
+$SiteUrl = "https://tenantName.sharepoint.com/sites/siteName"
+Connect-PnPOnline -Url $SiteUrl -Interactive -ClientId $ClientId
+
+$list = Get-PnPList -Identity "listName"
+
+Write-Output "List Template Name: $($list.TemplateTypeDisplayName)"
+
+Write-Output "List Template ID: $($list.BaseTemplate)"
